@@ -16,6 +16,8 @@ This project is one of my first projects on a complete website. The project focu
  # Use
  The web application is just static and has no functionality. It is a design based project meant to be seen from UI perspective.
  
+ # Run
+        index.html
  
  ## Contributions
  Any future contributions in the form of betterment of the design of the web page is welcome.
